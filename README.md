@@ -85,7 +85,7 @@ flowchart LR
 <details>
 <summary>Show contribution snake</summary>
 
-![Contribution snake generated from my GitHub contribution calendar.](https://raw.githubusercontent.com/navneet379/navneet379/contribution-snake/github-snake-dark.svg?v=1)
+![Contribution snake generated from my GitHub contribution calendar.](https://github.com/navneet379/navneet379/raw/contribution-snake/github-snake-dark.svg)
 
 </details>
 
